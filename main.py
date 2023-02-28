@@ -11,3 +11,6 @@ class Example1(Scene):
         self.play(Write(t2))
         t3 = MathTex(r"f : \mathbb{R}_+ \to \mathbb{R}, \ f(x) = \frac{1}{x}", color=RED_B).next_to(t2, RIGHT)
         self.play(Write(t3))
+
+        axes = Axes((-1, 6), (-1, 3))
+        self.play(Write(axes))
