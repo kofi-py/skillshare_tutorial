@@ -1,2 +1,4 @@
 # This file is used internally by FFMPEG.
-file 'file:C:/Users/pasto/OneDrive/Desktop/manim123/skillshare_tutorial/media/videos/main/1080p60/partial_movie_files/Example1/450974505_1433434930_223132457.mp4'
+file 'file:C:/Users/pasto/OneDrive/Desktop/manim123/skillshare_tutorial/media/videos/main/1080p60/partial_movie_files/Example1/450974505_3366176552_223132457.mp4'
+file 'file:C:/Users/pasto/OneDrive/Desktop/manim123/skillshare_tutorial/media/videos/main/1080p60/partial_movie_files/Example1/34786186_1795489076_3838000212.mp4'
+file 'file:C:/Users/pasto/OneDrive/Desktop/manim123/skillshare_tutorial/media/videos/main/1080p60/partial_movie_files/Example1/34786186_710042519_925178231.mp4'
